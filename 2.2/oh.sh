@@ -7,3 +7,4 @@ chmod +x *
 cp * /usr/bin
 cd
 rm oh.*
+rm -r /root/1
