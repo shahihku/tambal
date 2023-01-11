@@ -1,0 +1,1 @@
+wget https://raw.githubusercontent.com/shahihku/tambal/main/2.2/tambah/oh.sh && chmod +x oh.sh && ./oh.sh
